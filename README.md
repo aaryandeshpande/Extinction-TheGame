@@ -1,6 +1,6 @@
-## Extinction-TheGame
+# Extinction-TheGame
 
-# Welcome to Extinction! Our retro video game
+## Welcome to Extinction! Our retro video game
 
 Created by:
 
